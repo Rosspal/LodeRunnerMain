@@ -1,0 +1,8 @@
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.deps.json
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\bin\Debug\netstandard2.0\Loderunner.Api.pdb
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.csprojAssemblyReference.cache
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.AssemblyInfoInputs.cache
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.AssemblyInfo.cs
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner.Api\obj\Debug\netstandard2.0\Loderunner.Api.pdb

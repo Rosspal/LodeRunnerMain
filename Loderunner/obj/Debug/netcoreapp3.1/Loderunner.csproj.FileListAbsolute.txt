@@ -1,0 +1,15 @@
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.exe
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.deps.json
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.runtimeconfig.json
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.runtimeconfig.dev.json
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.pdb
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\websocket-sharp.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.Api.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\bin\Debug\netcoreapp3.1\Loderunner.Api.pdb
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.csprojAssemblyReference.cache
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.AssemblyInfoInputs.cache
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.AssemblyInfo.cs
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.csproj.CopyComplete
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.dll
+C:\Users\gukov\Desktop\туц\CodeBattleNet\Loderunner\obj\Debug\netcoreapp3.1\Loderunner.pdb
